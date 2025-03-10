@@ -1,0 +1,5 @@
+DerivedData/
+.DS_Store
+Package.pins
+Package.resolved
+*.xcodeproj
