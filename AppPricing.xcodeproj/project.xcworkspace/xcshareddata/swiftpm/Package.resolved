@@ -1,0 +1,24 @@
+{
+  "originHash" : "3a3459e896351d312a4fb3d6b1129a0d2f748360fc525ef149555c2eccc0d509",
+  "pins" : [
+    {
+      "identity" : "apppricingsdk-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apppricingsdk/ApppricingSDK-iOS",
+      "state" : {
+        "revision" : "dad7812ca5aded50f5e246a824d3073b58a2eee5",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "keychain-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/evgenyneu/keychain-swift.git",
+      "state" : {
+        "revision" : "5e1b02b6a9dac2a759a1d5dbc175c86bd192a608",
+        "version" : "24.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
